@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
               },
               // TASK 6: Change the text on the button
               child: Text('New button to press'),
-              style: ElevatedButton.styleFrom(backgroundColor: Colors.pink)//task 8
+              style: ElevatedButton.styleFrom(backgroundColor: Colors.blue)//task 8
             )
           ],
         ),
